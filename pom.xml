@@ -392,7 +392,7 @@
     <dependency>
       <groupId>io.prometheus</groupId>
       <artifactId>simpleclient_servlet</artifactId>
-      <version>0.8.0</version>
+      <version>0.16.0</version>
     </dependency>
     <dependency>
       <groupId>com.ebay.raptor.core</groupId>
